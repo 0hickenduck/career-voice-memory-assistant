@@ -7,6 +7,7 @@ A small AI tool for international students in Japan to record career events, sum
 - Basic Streamlit UI
 - Text input
 - Save button
+- Virtual generate_summary
 
 ## Planned Features
 
